@@ -12,9 +12,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62858779027560', '62858779027560', '62858779027560', '62858779027560']
-global.packname = 'Zaky Ganz'
-global.author = 'Zaky'
+global.owner = ['6282287750102']
+global.packname = 'AlpinBOT'
+global.author = 'Alpin'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
